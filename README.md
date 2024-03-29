@@ -1,4 +1,4 @@
-I am a guy who likes to program recreationally.
+I like to program.
 
 <!---
 DatoXx8/DatoXx8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
